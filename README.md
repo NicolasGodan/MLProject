@@ -1,6 +1,6 @@
 # MLProject
 Machine Learning Course Project
-including 3 python files
-CNN authored by Yizhou Li
-BP authored by Tianyu Zhang
-KNN authored by Xudong Zhang
+including 3 python files \<br>
+CNN authored by Yizhou Li \<br>
+BP authored by Tianyu Zhang \<br>
+KNN authored by Xudong Zhang \<br>
